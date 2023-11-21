@@ -1,0 +1,38 @@
+*{
+padding: 0px;
+margin: 0px;
+
+}
+
+<style>
+p{
+font-family: Verdana,Geneva,Arial;}
+p{
+font-size: 12px;}
+h1{
+font-size: 2.2em;}
+h2{
+font-size: 1.3em;}
+h2{
+font-weight: normal;}
+blockquote{
+font-style: italic;}
+h1,h2{
+color: #CC6600;}
+h1,h2{
+text-decoration: underline;}
+body{
+	color: royalblue;
+	color: rgb(65, 105, 225);
+	color: #4169E1CC;
+	color: rgba(39,177,182,0.8);
+	color: #2775b6CC;
+}
+body{
+	background-color: rgb(25%, 41%, 88%);
+	background-color: rgb(65, 105, 225);
+}
+p {
+  font-style: italic;
+}
+</style>
